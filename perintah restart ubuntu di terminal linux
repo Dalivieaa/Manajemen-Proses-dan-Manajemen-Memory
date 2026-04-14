@@ -1,0 +1,23 @@
+_________________________________________
+
+Perintah Restart Ubuntu di Terminal Linux
+_________________________________________
+
+1. sudo reboot: Untuk mematikan dan menyalakan ulang mesin laptop yang ada di VirtualBox secara otomatis (restart).
+
+2. Munculnya logo Ubuntu dan ikon menandakan sistem sedang memproses data untuk masuk kembali ke menu utama.
+
+3. Ubuntu berhasil masuk ke tampilan desktop artinya proses restart sistem sudah selesai dan perangkat sudah bisa digunakan kembali.	
+
+4. sudo shutdown now: Untuk mematikan total mesin laptop VirtualBox saat itu juga (langsung mati).
+
+5. Munculnya logo Ubuntu dan ikon menandakan sistem sedang memproses data untuk masuk kembali ke menu utama.
+
+6. Sistem sudah berubah menjadi “Powered Off” untuk mematikan Ubuntu telah berhasil dijalankan sepenuhnya.
+
+7. Memperlihatkan layar sebelum masuk ke sistem. Pengguna perlu memasukkan kata sandi untuk mengakses akun Ubuntu.
+
+8. sudo shutdown -r 12:43: Untuk menjadwalkan kapan laptop akan mati otomatis tepat pada jam 13:14.
+
+9. Ubuntu berhasil masuk ke tampilan desktop artinya proses restart sistem sudah selesai dan perangkat sudah bisa digunakan kembali	
+
